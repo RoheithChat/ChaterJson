@@ -1,1 +1,4 @@
-Username = {name1 : "Roheith",name2:"Sanjeev"}
+Username = {
+    "name1": "Roheith",
+    "name2": "Sanjeev"
+}
